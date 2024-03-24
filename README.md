@@ -1,6 +1,10 @@
 # Aircanvas-gesture_recognition
 This project is about drawing on air with hand movements and recognize gestures.
 
+## Install python
+Go to the official Python website at [python.org](https://www.python.org/) and install python version 3.
+
+
 ## Libraries to be installed:
 
 1. ### cv2 (OpenCV): 
@@ -65,6 +69,7 @@ This project is about drawing on air with hand movements and recognize gestures.
         Open middle finger along with index finger, draw on the screen
             ![Draw shape](./readme_assets/images/draw_shape.png)
     - Gestures that can be recognized:
+        Recognized gesture would be displayed on command prompt and sound is triggered
         1. Hello 👋
             ![Say Hello](./readme_assets/images/Hello.png)
         2. Need Water 🥛
